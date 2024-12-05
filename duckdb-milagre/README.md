@@ -29,3 +29,6 @@ Mensure o volume dos dados *antes* de fazer besteira e culpar o patinho! Se esto
 
 * [Como ajustar workloads](https://duckdb.org/docs/guides/performance/how_to_tune_workloads.html)
 * [Meu workload está lento](https://duckdb.org/docs/guides/performance/my_workload_is_slow)
+* [Dataset - Genius Song Lyrics](https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information/data)
+
+
